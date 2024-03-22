@@ -1,1 +1,1 @@
-# 4DOF-Manipulator
+# 5DOF-Manipulator
